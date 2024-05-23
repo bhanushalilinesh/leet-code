@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d83537c0-c337-43d8-b232-f999b8808454" name="Changes" comment="1672. Richest Customer Wealth">
-      <change afterPath="$PROJECT_DIR$/src/ShuffleTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KidsWithGreatestNumberOfCandies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Application.BuildArrayFromPermutation.executor": "Run",
     "Application.ConcatinationOfArray.executor": "Run",
+    "Application.KidsWithGreatestNumberOfCandies.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RichestCustomerWealth.executor": "Run",
     "Application.RunningSumOf1DArray.executor": "Run",
@@ -58,16 +59,16 @@
     "onboarding.tips.debug.path": "/Users/apple/Documents/java_learnings/leet-code/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShuffleTheArray">
-    <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BuildArrayFromPermutation" />
+  <component name="RunManager" selected="Application.KidsWithGreatestNumberOfCandies">
+    <configuration name="ConcatinationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatinationOfArray" />
       <module name="leet-code" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatinationOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConcatinationOfArray" />
+    <configuration name="KidsWithGreatestNumberOfCandies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KidsWithGreatestNumberOfCandies" />
       <module name="leet-code" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KidsWithGreatestNumberOfCandies" />
         <item itemvalue="Application.ShuffleTheArray" />
         <item itemvalue="Application.RichestCustomerWealth" />
         <item itemvalue="Application.RunningSumOf1DArray" />
         <item itemvalue="Application.ConcatinationOfArray" />
-        <item itemvalue="Application.BuildArrayFromPermutation" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716474418925</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1672. Richest Customer Wealth">
+      <option name="closed" value="true" />
+      <created>1716474920702</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716474920702</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
