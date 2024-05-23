@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d83537c0-c337-43d8-b232-f999b8808454" name="Changes" comment="1929. Concatenation of Array&#10;Solved">
-      <change afterPath="$PROJECT_DIR$/src/RunningSumOf1DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d83537c0-c337-43d8-b232-f999b8808454" name="Changes" comment="1480. Running Sum of 1d Array">
+      <change afterPath="$PROJECT_DIR$/src/RichestCustomerWealth.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     "onboarding.tips.debug.path": "/Users/apple/Documents/java_learnings/leet-code/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RunningSumOf1DArray">
+  <component name="RunManager" selected="Application.RichestCustomerWealth">
     <configuration name="BuildArrayFromPermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BuildArrayFromPermutation" />
       <module name="leet-code" />
@@ -78,6 +77,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RichestCustomerWealth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RichestCustomerWealth" />
+      <module name="leet-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunningSumOf1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RunningSumOf1DArray" />
       <module name="leet-code" />
@@ -87,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RichestCustomerWealth" />
         <item itemvalue="Application.RunningSumOf1DArray" />
         <item itemvalue="Application.ConcatinationOfArray" />
         <item itemvalue="Application.BuildArrayFromPermutation" />
@@ -127,13 +134,22 @@
       <option name="project" value="LOCAL" />
       <updated>1716468367828</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1480. Running Sum of 1d Array">
+      <option name="closed" value="true" />
+      <created>1716470149908</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716470149908</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="//Leet code : 1281. Subtract the Product and Sum of Digits of an Integer&#10;solved" />
     <MESSAGE value="//1920. Build Array from Permutation&#10;Solved" />
     <MESSAGE value="1929. Concatenation of Array&#10;Solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="1929. Concatenation of Array&#10;Solved" />
+    <MESSAGE value="1480. Running Sum of 1d Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="1480. Running Sum of 1d Array" />
   </component>
 </project>
